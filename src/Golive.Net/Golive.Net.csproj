@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <Title>Apwide Golive</Title>
+    <Authors>Luk Vermeulen</Authors>
+    <Company>lointain bv</Company>
+    <Description>C# client for Apwide Golive</Description>
+    <Copyright>Copyright © 2023 All rights reserved</Copyright>
+    <PackageProjectUrl>https://github.com/lvermeulen/golive.net</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/lvermeulen/golive.net</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageIcon>noun-live-2146916.png</PackageIcon>
+    <PackageLicenseExpression>mit</PackageLicenseExpression>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\assets\noun-live-2146916.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Flurl.Http" Version="4.0.0-pre3" />
+  </ItemGroup>
+
+</Project>
