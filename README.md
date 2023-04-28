@@ -1,8 +1,8 @@
 ![Icon](https://imgur.com/gHvfGIJ)
 # Golive.Net 
-[![Build status](https://ci.appveyor.com/api/projects/status/c9npduu2dp9ljlps?svg=true)](https://ci.appveyor.com/project/lvermeulen/golive-net)
- [![license](https://img.shields.io/github/license/lvermeulen/Golive.Net.svg?maxAge=2592000)](https://github.com/lvermeulen/Golive.Net/blob/master/LICENSE) [![NuGet](https://img.shields.io/nuget/v/Keycloak.Net.svg?maxAge=2592000)](https://www.nuget.org/packages/Keycloak.Net/) ![downloads](https://img.shields.io/nuget/dt/Keycloak.Net)
- ![](https://img.shields.io/badge/.net-4.5.2-yellowgreen.svg) ![](https://img.shields.io/badge/netstandard-1.4-yellowgreen.svg) [![FOSSA Status](https://app.fossa.com/api/projects/custom%2B11767%2Fgithub.com%2Flvermeulen%2FKeycloak.Net.svg?type=shield)](https://app.fossa.com/projects/custom%2B11767%2Fgithub.com%2Flvermeulen%2FKeycloak.Net?ref=badge_shield)
+[![Build status](https://ci.appveyor.com/api/projects/status/kgpie8u6m768ejf4?svg=true)](https://ci.appveyor.com/project/lvermeulen/golive-net)
+ [![license](https://img.shields.io/github/license/lvermeulen/Golive.Net.svg?maxAge=2592000)](https://github.com/lvermeulen/Golive.Net/blob/master/LICENSE) [![NuGet](https://img.shields.io/nuget/v/Golive.Net.svg?maxAge=2592000)](https://www.nuget.org/packages/Golive.Net/) ![downloads](https://img.shields.io/nuget/dt/Golive.Net)
+ ![](https://img.shields.io/badge/netstandard-6.0-yellowgreen.svg)
 
 C# client for [Apwide Golive](https://www.apwide.com/)
 
