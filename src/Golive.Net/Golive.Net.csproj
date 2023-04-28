@@ -13,7 +13,7 @@
     <RepositoryUrl>https://github.com/lvermeulen/golive.net</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageIcon>noun-live-2146916.png</PackageIcon>
-    <PackageLicenseExpression>mit</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
